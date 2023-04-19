@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b813d1fd-280d-4a85-8660-98612936743c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+    <list default="true" id="b813d1fd-280d-4a85-8660-98612936743c" name="Changes" comment="Committing Game">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +35,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/8279a/IdeaProjects/Game-Street-Fighter"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TicTacToe">
     <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Game" />
       <module name="Tic-Tac-Toe" />
@@ -51,8 +47,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToe" />
+      <module name="Tic-Tac-Toe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.Game" />
       </list>
     </recent_temporary>
@@ -66,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1681850817645</updated>
     </task>
+    <task id="LOCAL-00001" summary="Committing Game">
+      <created>1681852917615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681852917615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Committing Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing Game" />
   </component>
 </project>
